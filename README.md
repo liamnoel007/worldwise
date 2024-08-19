@@ -1,8 +1,8 @@
-# React + Vite
+# WorldWise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Инетресный проект попался жджя меня) 
+В этом проекте я имитировал работу с готовым проектом, который до меня создали (верска, немного логики). 
+Я добьавил роутинг с помощью React Router, использовл кастомные хуки, Context, Reducer.
+Думаю получилось неплохо)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Адрес для просмотра: https://worldwise-pied.vercel.app/
